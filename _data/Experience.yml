@@ -2,21 +2,33 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: MIT Healthy ML Lab
+    role: Undergraduate ML Researcher
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Developing method for decoupled bias reduction in Vision-Language Models by transforming representation vectors, reduced performance gap by 30% and lowered computational/training costs by 100x compared to current literature
+      - Implementing tests for task-transferability for review of dozens of extant debiasing techniques in vision language models
+    date: May 2024 - Ongoing
+  - title: Class Technologies
+    role: Data Science and Visualization Specialist
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Redesigned videoconferencing breakout room dashboard to reduce cpu utilization and bandwidth by factor of 1000, implementing language model to flag harassment and visualize activity in each breakout
+      - Designed & implemented new data portal using React and Python for instructors to predict which students are at risk
+    date: May 2024 – Aug. 2024
+  - title: MIT Darwin Project
+    role: Bioinformatics Data Scientist
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Used R and Python on a high-performance computing cluster to analyze and visualize omics data and perform clustering 
+      - Modified orthogroup clustering software written in Python, resulting in >3x speed-up
+      - Verified differential-equation-based cellular model in Julia & developed ML model to predict variation from transcriptome
+  - title: The Works, Inc.
+    role: Data Scientist
+    description: 
+      - Used Python, R, & Google Sheets to speed up eviction geocoding 10x, and analyze data to classify 100,000+ retaliatory evictions 
+      - Created interactive maps/visualizations of retaliatory evictions using QGIS and ArcGIS StoryMaps, collaborating w/ team of 7
+      - Successfully used QGIS, Tableau, and R to create visualizations convincing city to give additional $4 million in eviction aid
+    date: Aug. 2023 – Feb. 2024
+  - title: MIT Justice-Centered Healthy Mobilities Group
+    role: Undergraduate Researcher
+    description: 
+      - Used mapping software to analyze and geospatially visualize inequities in transportation and public health, identifying and assessing potential partnerships with >50 community organization
+    date: Nov. 2022 - May 2023
