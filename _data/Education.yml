@@ -1,0 +1,8 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Massachusetts Institute of Technology, BSc & Masters in Computer Science
+    description: "**Classes**:  Natural Language Processing, Crowd Sourced City: Data Activism, Clinical Data Learning, Intro Machine Learning, Intro to Algorithms, Interactive Data Visualization & Society, Statistics, Feminist Thought"
+    grade: "**GPA**: `5.0/5.0`"
+    date: Graduating May 2026

@@ -1,0 +1,10 @@
+subject: Skills
+listing-order: 5
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Programming Languages
+    description: "Python, Typescript/Javascript, R, SQL, Julia, HTML, CSS, LaTeX, C++"
+  - title: Technical
+    description: "PyTorch, Pandas, Numpy, Sklearn, React, GIS, Matplotlib, dplyr, ggplot, High-Performance Computing, Slurm, Bioconductor, DESeq2, Git, Excel/Google Sheets"
+  - title: Skills
+    description: "Data Analysis & Pipelining, Machine Learning (LLMS & VLMs), Distributed Processing on Large Datasets, Data Visualization, Communication, Organizational Leadership/Management, Participatory Action Research (PAR), Critical Race & Gender Theory"

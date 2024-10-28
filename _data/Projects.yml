@@ -1,0 +1,16 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Impact and Benefits of a Transfer Fee
+([http://quinnperian.com/6c35-project/](http://quinnperian.com/6c35-project/))"
+    description: 
+      - Interactive dashboard developped to enable lawmakers to show effectiveness of transfer tax and customize tax parameters by region
+      - Developped in collaboration with and for use by city government (Metropolitan Area Planning Council)
+  - title: "Serial Evictors and Retaliatory Evictions (*not publicly available to preserve data privacy*)"
+    description: 
+      - ArcGIS StoryMap developped in collaboration with The Works, Inc. for the government of city of Memphis to help identify prevalance of illegal evictions 
+      - Developped using QGIS, R, and Python to visualize evictions by region and demographicin Memphis, TN
+  - title: "Bikewatching ([http://quinnperian.com/bikewatching/](http://quinnperian.com/bikewatching//))" 
+    description: 
+      - Small personal project built to visualize bike traffic in boston by time of day to understand rush hour dynamcis and typical routes
