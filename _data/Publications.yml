@@ -3,9 +3,8 @@ listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
   - ref: 
-      - "[1] “Transferrable Representational Debiasing Techniques for Vision Language Models,” *in prep*"
-      - "[2] “Transcriptome Data Enable Physiological Model Customization and Illumine Phytoplankton Thermal Response,” *Ocean Sciences Meeting*, 2024."
-      - "[3] “Justice-Centered Participatory Research on Transportation and Health,” *Association of Collegiate Schools of Planning*, 2023."
-      - "[4] “Counting Nontrivial Equivalence Classes of S_n Under {1234,3412}-Pattern-Replacement,” first author, *Online Journal of Integer Sequences*, 2020."
-      - "[5] “Analyzing Transit Timing Variations in Transits of TrES-1 b,” *Journal of the Korean Astronomical Society*, 2022."
-      - "[6] “Utilizing Small Telescopes Operated by Citizen Scientists for Transiting Exoplanet Follow-up,” *Publications of the Astronomical Society of the Pacific*, 2020."
+      - "[1] “Transcriptome Data Enable Physiological Model Customization and Illumine Phytoplankton Thermal Response,” *Ocean Sciences Meeting*, 2024."
+      - "[2] “Justice-Centered Participatory Research on Transportation and Health,” *Association of Collegiate Schools of Planning*, 2023."
+      - "[3] “Counting Nontrivial Equivalence Classes of S_n Under {1234,3412}-Pattern-Replacement,” first author, *Online Journal of Integer Sequences*, 2020."
+      - "[4] “Analyzing Transit Timing Variations in Transits of TrES-1 b,” *Journal of the Korean Astronomical Society*, 2022."
+      - "[5] “Utilizing Small Telescopes Operated by Citizen Scientists for Transiting Exoplanet Follow-up,” *Publications of the Astronomical Society of the Pacific*, 2020."

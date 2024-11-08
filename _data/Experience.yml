@@ -23,7 +23,7 @@ contents:
   - title: The Works, Inc.
     role: Data Scientist
     description: 
-      - Used Python, R, & Google Sheets to speed up eviction geocoding 10x, and analyze data to classify 100,000+ retaliatory evictions 
+      - Used Python, R, & Google Sheets to speed up eviction geocoding 100x, and analyze data to classify 100,000+ retaliatory evictions 
       - Created interactive maps/visualizations of retaliatory evictions using QGIS and ArcGIS StoryMaps, collaborating w/ team of 7
       - Successfully used QGIS, Tableau, and R to create visualizations convincing city to give additional $4 million in eviction aid
     date: Aug. 2023 – Feb. 2024
